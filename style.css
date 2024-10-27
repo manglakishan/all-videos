@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+table{
+    padding: 20px;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: RGB(136, 176, 75);
+}
+th,td{
+    border: 2px solid black;
+    padding: 10px;
+    color: black;
+}
+tr{
+    text-align: center;
+}
+.heading1{
+    text-decoration: solid black;
+    font-size: xx-large;
+}
+.heading2{
+    font-size: xx-large;
+}
+.haeding3{
+    font-size: xx-large;
+}
+.heading5{
+    font-size: xx-large;
+}
+.heading6{
+    font-size: xx-large;
+}
+.heading7{
+    font-size: xx-large;
+}
+.heading10{
+    font-size: xx-large;
+}
+.heading9{
+    font-size: xx-large;
+}
